@@ -1,2 +1,3 @@
 def main():
-print(" Patrick Wilkinson")
+  print(" Patrick Wilkinson")
+main()
